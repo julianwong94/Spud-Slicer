@@ -1,0 +1,8 @@
+{
+  "exponentServerPort": 19000,
+  "packagerPort": 19002,
+  "packagerPid": 7356,
+  "exponentServerNgrokUrl": "https://tf-3ub.julianwong94.spud-slicer.exp.direct",
+  "packagerNgrokUrl": "https://packager.tf-3ub.julianwong94.spud-slicer.exp.direct",
+  "ngrokPid": 7371
+}
